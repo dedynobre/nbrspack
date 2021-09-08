@@ -1,0 +1,19 @@
+{
+  "name": "noobrespackage",
+  "version": "1.0.0",
+  "description": "teste package noobres",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dedynobre/nbrspack.git"
+  },
+  "author": "dedynobre",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dedynobre/nbrspack/issues"
+  },
+  "homepage": "https://github.com/dedynobre/nbrspack#readme"
+}
